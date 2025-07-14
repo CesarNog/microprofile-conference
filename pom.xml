@@ -118,12 +118,12 @@
         <version.swagger>1.5.10</version.swagger>
         <version.swizzle-stream>1.6.2</version.swizzle-stream>
         <version.commons-io>2.5</version.commons-io>
-        <version.commons-lang3>3.4</version.commons-lang3>
+        <version.commons-lang3>3.18.0</version.commons-lang3>
         <version.collections>3.2.2</version.collections>
 
         <!--Environment-->
         <warfile.name>ROOT</warfile.name>
-        <qualifier.jar></qualifier.jar>
+        <qualifier.jar/>
     </properties>
 
     <modules>
