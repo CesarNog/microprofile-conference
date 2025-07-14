@@ -103,7 +103,7 @@
         <version.el>2.2</version.el>
         <version.junit>4.12</version.junit>
         <version.jsonunit>1.12.1</version.jsonunit>
-        <version.jackson>2.8.2</version.jackson>
+        <version.jackson>2.15.0</version.jackson>
 
         <!-- App servers -->
         <version.wildfly-swarm>2016.10.0</version.wildfly-swarm>
@@ -118,12 +118,12 @@
         <version.swagger>1.5.10</version.swagger>
         <version.swizzle-stream>1.6.2</version.swizzle-stream>
         <version.commons-io>2.5</version.commons-io>
-        <version.commons-lang3>3.4</version.commons-lang3>
+        <version.commons-lang3>3.18.0</version.commons-lang3>
         <version.collections>3.2.2</version.collections>
 
         <!--Environment-->
         <warfile.name>ROOT</warfile.name>
-        <qualifier.jar></qualifier.jar>
+        <qualifier.jar/>
     </properties>
 
     <modules>
